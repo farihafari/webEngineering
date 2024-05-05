@@ -1,0 +1,18 @@
+computer language -> binary language 
+operating system -> interface 
+tild menu left pane
+traditional menu right pane 
+alt + tab // to view task menu
+cntrl + shift + n // to make folder
+cntrl+c // to copy content
+cntrl+v // to paste copy
+cntrl + x // to cut content 
+cntrl + y // redo
+cntrl + z // undo
+file explorer
+->ribbon
+->navigation pane
+->frequent folder
+->recent file 
+a-b_c
+

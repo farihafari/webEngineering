@@ -1,0 +1,24 @@
+/* #para1{
+    color:brown;
+    background-color: aqua;
+    
+} */
+/* bg color section */
+/* .bgcolor{
+    background-color: red;
+    color: white;
+} */
+p{
+    background-color: burlywood;
+    color: brown;
+    text-align: justify;
+    text-transform: lowercase;
+font-size: 20px;
+font-weight: bold;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h1{
+    /* text-align: right; */
+    text-align: center;
+}
