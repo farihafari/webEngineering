@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: 80px;
+    background-color: blue;
+   display: flex;
+}
+.logo{
+    width: 15%;
+    height: inherit;
+    background-color: bisque;
+}
+nav{
+    width: 85%;
+    height: inherit;
+    background-color: brown;
+}
+/* banner */
+main{
+    width: 100%;
+    height: 300px;
+    background-color: blueviolet;
+}
+section{
+    width: 100%;
+    /* height: 300px; */
+    background-color: cadetblue;
+  
+}
+.row{
+    width: 90%;
+    height: 250px;
+    background-color: chocolate;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.col{
+  width: 20%;
+  height: 150px;
+  background-color: darkred;
+  border: 1px solid;  
+}
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: blueviolet;
+}

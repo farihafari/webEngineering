@@ -1,0 +1,14 @@
+table{
+    border-collapse: collapse;
+    width: 500px;
+    height: 30px;
+    text-align: center;
+}
+tbody>tr:nth-child(even){
+    background-color: rgba(21, 226, 21, 0.321);
+    color: rgb(9, 63, 9);
+}
+tbody>tr:nth-child(odd){
+    color: white;
+    background-color: rgb(9, 63, 9);
+}
