@@ -1,0 +1,58 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+div{
+    width: 60%;
+    height: 300px;
+    clip-path: polygon(0 0, 100% 1%, 90% 60%, 7% 58%);
+background-color: rgb(225, 21, 211);
+border-radius: 20px 50px 40px 50px;
+
+}
+body{
+ 
+    height: 100vh;
+    border: 1px solid;
+ 
+    background-image: url('../images/pexels-wdnet-96627.jpg');
+    background-position: center;
+    background-size: cover;
+    animation: bgdes 15s linear .4s infinite  both;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 70px;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-shadow: 2px 3px 4px yellow;
+}
+@keyframes bgdes {
+    0%{
+        background-image: url(../images/pexels-wdnet-96627.jpg);
+    }
+    20%{
+        background-image: url(../images/i1.jpeg);
+
+    }
+    40%{
+        background-image: url(../images/i2.webp);
+
+    }
+    60%{
+        background-image: url(../images/i3.jpeg);
+
+        
+    }
+    80%{
+        background-image: url(../images/i4.jpeg);
+
+    }
+    100%{
+        background-image: url(../images/pexels-wdnet-96627.jpg);
+
+    }
+
+}
