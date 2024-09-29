@@ -1,2 +1,3 @@
 let x = document;
-demo.innerHTML="fariha";
+console.log(x)
+// demo.innerHTML="fariha";
