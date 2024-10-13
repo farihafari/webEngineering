@@ -4,9 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="assets/css/bg.css">
+    <!-- <link rel="stylesheet" href="assets/css/bg.css"> -->
 </head>
 <body>
-    <div><h1>hello dear</h1></div>
+    <!-- <div><h1>hello dear</h1></div> -->
+    <div id="x"></div>
+
+    <script>
+        let x ="";
+        for(i=1;i<=20;i++){
+            if(i%5==0){
+x+=`<p style="background-color:red;color:white">${i}Fizzbuzz</p>`;
+            }else if(i%2==0){
+                x+=`<p style="background-color:blue;color:white">${i}Fizz</p>`;
+            }else{
+                x+=`<p style="background-color:green;color:white">${i}Buzz</p>`;
+            }
+        }
+        document.querySelector("#x").innerHTML=x;
+    </script>
 </body>
 </html>
