@@ -11,6 +11,6 @@ let email = prompt("enter your email");
 if(uname && email){
     alert("login successfully");
 }else{
-    alert("bothb fields are required to fill ");
+    alert("both fields are required to fill ");
 
 }
