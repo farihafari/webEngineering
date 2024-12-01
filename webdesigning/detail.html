@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+</head>
+<style>
+    img{
+        cursor: pointer;
+    }
+</style>
+<body>
+    <div class="container">
+        <h1 class="text-center text-capitalize text-success py-3">detail page</h1>
+       <div class="row">
+        <div class="col-lg-7">
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="card">
+                        <img id="bimg" src="assets/images/i1.jpeg" class="card-img-top" alt="...">
+                       
+                      </div>
+                </div>
+            </div>
+    
+            <div class="row mt-3">
+                <div class="col-lg-3">
+                    <div class="card">
+      <img src="assets/images/i2.webp" id="simg1" class="card-img-top" alt="..." onclick="ImgPreview(this)" >
+      
+    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="card">
+      <img src="assets/images/i1.jpeg" onclick="ImgPreview(this)" id="simg2" class="card-img-top" alt="...">
+   
+    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="card">
+      <img src="assets/images/i3.jpeg" onclick="ImgPreview(this)" id="simg3" class="card-img-top" alt="...">
+      
+    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="card">
+      <img src="assets/images/i4.jpeg" onclick="ImgPreview(this)" id="simg4" class="card-img-top" alt="...">
+    
+    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-5">
+            <div class="card-body mt-5">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+        </div>
+       </div>
+    </div>
+    <script src="assets/js/detail.js"></script>
+</body>
+</html>
