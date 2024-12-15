@@ -1,0 +1,65 @@
+{
+"assoceriess":[
+    {
+        "name":"data cabel",
+        "price":150,
+        "warranty":"6 month",
+        "description":"LAN Cable for Internet Ethernet Wire RJ45 Cat 6 UTP Original High-Quality Standard Networking Super Fast Premium Speed Router Modem 1m 2m 3meter 5m 10m 15m 20m 25m 30m 40m 50m 100m up to 300 Meter Length Mobile Laptop Computer PC",
+        "image":"../images/project/ass1.webp"
+    },
+    {
+        "name":"storage card",
+        "price":550,
+        "warranty":"6 month",
+        "description":"LAN Cable for Internet Ethernet Wire RJ45 Cat 6 UTP Original High-Quality Standard Networking Super Fast Premium Speed Router Modem 1m 2m 3meter 5m 10m 15m 20m 25m 30m 40m 50m 100m up to 300 Meter Length Mobile Laptop Computer PC",
+        "image":"assets/images/project/ass1.webp"
+    }
+],
+"mobile":
+[
+    {
+        "name":"Techno",
+        "price":76000,
+        "warranty":"1 year",
+        "description":"Tecno Spark 30 - Another Budget Flagship of the Year Tecno has introduced the new Spark 30 series that is surrounding the internet and breaking records to make its path towards success. Tecno's Spark 30 is coming with some of the most unique and cutting-edge features, such as the massive and sharp display, the enhanced camera system, a larger battery, and a powerful chipse",
+        "image":"assets/images/project/m1.jpg"
+    },
+    {
+        "name":"Techno",
+        "price":76000,
+        "warranty":"1 year",
+        "description":"Tecno Spark 30 - Another Budget Flagship of the Year Tecno has introduced the new Spark 30 series that is surrounding the internet and breaking records to make its path towards success. Tecno's Spark 30 is coming with some of the most unique and cutting-edge features, such as the massive and sharp display, the enhanced camera system, a larger battery, and a powerful chipse",
+        "image":"assets/images/project/m1.jpg"
+    },{
+        "name":"Iphone 14",
+        "price":120000,
+        "warranty":"1 year",
+        "description":"Tecno Spark 30 - Another Budget Flagship of the Year Tecno has introduced the new Spark 30 series that is surrounding the internet and breaking records to make its path towards success. Tecno's Spark 30 is coming with some of the most unique and cutting-edge features, such as the massive and sharp display, the enhanced camera system, a larger battery, and a powerful chipse",
+        "image":"assets/images/project/m2.jpg"
+    },{
+        "name":"Readme",
+        "price":86000,
+        "warranty":"1 year",
+        "description":"Tecno Spark 30 - Another Budget Flagship of the Year Tecno has introduced the new Spark 30 series that is surrounding the internet and breaking records to make its path towards success. Tecno's Spark 30 is coming with some of the most unique and cutting-edge features, such as the massive and sharp display, the enhanced camera system, a larger battery, and a powerful chipse",
+        "image":"assets/images/project/m6.jpg"
+    },{
+        "name":"Techno",
+        "price":98000,
+        "warranty":"1 year",
+        "description":"Tecno Spark 30 - Another Budget Flagship of the Year Tecno has introduced the new Spark 30 series that is surrounding the internet and breaking records to make its path towards success. Tecno's Spark 30 is coming with some of the most unique and cutting-edge features, such as the massive and sharp display, the enhanced camera system, a larger battery, and a powerful chipse",
+        "image":"assets/images/project/m7.jpg"
+    },{
+        "name":"iphone 15 pro",
+        "price":66000,
+        "warranty":"1 year",
+        "description":"Tecno Spark 30 - Another Budget Flagship of the Year Tecno has introduced the new Spark 30 series that is surrounding the internet and breaking records to make its path towards success. Tecno's Spark 30 is coming with some of the most unique and cutting-edge features, such as the massive and sharp display, the enhanced camera system, a larger battery, and a powerful chipse",
+        "image":"assets/images/project/m8.jpg"
+    },{
+        "name":"Techno",
+        "price":76000,
+        "warranty":"1 year",
+        "description":"Tecno Spark 30 - Another Budget Flagship of the Year Tecno has introduced the new Spark 30 series that is surrounding the internet and breaking records to make its path towards success. Tecno's Spark 30 is coming with some of the most unique and cutting-edge features, such as the massive and sharp display, the enhanced camera system, a larger battery, and a powerful chipse",
+        "image":"assets/images/project/m9.jpg"
+    }
+]
+}
