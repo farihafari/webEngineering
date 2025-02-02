@@ -44,7 +44,7 @@ modal+=`
                 " alt="" srcset="">
             </div>
             <div class="col-lg-7">
-                <div class="card" style="width: 18rem;">
+                <div class="card">
                     <div class="card-body">
                       <h5 class="card-title">
                       ${objects.name}
@@ -66,7 +66,7 @@ modal+=`
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-          <a href="detail.html"
+          <a href="detail.html?pId=${keys+indexes}"
           class="btn btn-primary">detail</a>
         </div>
       </div>
